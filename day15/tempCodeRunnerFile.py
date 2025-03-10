@@ -1,0 +1,1 @@
+print(sum_all_boxes(grid))
